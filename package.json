@@ -1,0 +1,14 @@
+{
+	"name": "atprotocol-bluesky-examples",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {},
+	"devDependencies": {
+		"ts-node": "^10.9.1"
+	},
+	"dependencies": {
+		"@atproto/api": "^0.2.11",
+		"dotenv": "^16.0.3",
+		"typescript": "^5.0.4"
+	}
+}
